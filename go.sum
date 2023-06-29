@@ -8,6 +8,8 @@ github.com/bogdanfinn/utls v1.5.16 h1:NhhWkegEcYETBMj9nvgO4lwvc6NcLH+znrXzO3gnw4
 github.com/bogdanfinn/utls v1.5.16/go.mod h1:mHeRCi69cUiEyVBkKONB1cAbLjRcZnlJbGzttmiuK4o=
 github.com/flyingpot/funcaptcha v0.2.2 h1:vt4gM5l2UXxCcYOrciK1O+BMKMhvo5FPBxp56eAnin0=
 github.com/flyingpot/funcaptcha v0.2.2/go.mod h1:OyVM3Y1gimE2ooxkQycqF9T/XHJp1ZnSZIifF8KumIU=
+github.com/flyingpot/funcaptcha v0.2.4 h1:xyBKc7YiB+HsEwLlOgzxFHQgRpHzXEhVG/34zzbjZPA=
+github.com/flyingpot/funcaptcha v0.2.4/go.mod h1:OyVM3Y1gimE2ooxkQycqF9T/XHJp1ZnSZIifF8KumIU=
 github.com/gofiber/fiber/v2 v2.47.0 h1:EN5lHVCc+Pyqh5OEsk8fzRiifgwpbrP0rulQ4iNf3fs=
 github.com/gofiber/fiber/v2 v2.47.0/go.mod h1:mbFMVN1lQuzziTkkakgtKKdjfsXSw9BKR5lmcNksUoU=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=

@@ -7,7 +7,7 @@ require (
 	github.com/bogdanfinn/fhttp v0.5.23 // indirect
 	github.com/bogdanfinn/tls-client v1.4.0 // indirect
 	github.com/bogdanfinn/utls v1.5.16 // indirect
-	github.com/flyingpot/funcaptcha v0.2.2 // indirect
+	github.com/flyingpot/funcaptcha v0.2.4 // indirect
 	github.com/gofiber/fiber/v2 v2.47.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/klauspost/compress v1.16.3 // indirect
