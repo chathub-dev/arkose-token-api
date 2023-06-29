@@ -12,7 +12,7 @@ func main() {
     app.Use(logger.New())
 
     app.Get("/token", func(c *fiber.Ctx) error {
-        token, err := funcaptcha.GetOpenAIToken()
+        token, err := funcaptcha.GetOpenAITokenV2()
         if err != nil {
             return c.JSON(fiber.Map{ "error": err.Error(), })
         }
